@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-HI <br>
+Hi. <br>
 I AM RAHUL KAURAIYA.
