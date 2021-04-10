@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 HI I AM RAHUL KUMAR.
+I LOVE TO READ CODES. IT'S THE LAZY TASK I CAN DO IN THE FREE TIME.
