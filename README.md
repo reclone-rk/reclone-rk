@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-HI I AM RAHUL KUMAR.
-I LOVE TO READ CODES. IT'S THE LAZY TASK I CAN DO IN THE FREE TIME.
+HI <br>
+I AM RAHUL KAURAIYA.
